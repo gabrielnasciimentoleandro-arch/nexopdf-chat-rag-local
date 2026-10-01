@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Dados locais e modelos
+.env
+*.index
+*.faiss
+models/
+data/private/
+uploads/

@@ -1,0 +1,18 @@
+[project]
+name = "nexopdf"
+version = "1.0.0"
+description = "Chat local com documentos usando busca vetorial e RAG"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+ignore = ["E501"]

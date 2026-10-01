@@ -1,0 +1,17 @@
+Sentenças para análise — IA responsável em trabalhos acadêmicos
+
+1. A inteligência artificial deve apoiar o estudante, não substituir sua autoria intelectual.
+2. Toda afirmação sugerida por um modelo precisa ser verificada em uma fonte confiável.
+3. Respostas de chatbots podem conter referências inexistentes e não devem ser citadas sem conferência.
+4. O registro dos prompts, das respostas e das decisões humanas aumenta a rastreabilidade do trabalho.
+5. Dados pessoais ou documentos sigilosos não devem ser enviados a serviços externos sem autorização.
+6. O processamento local reduz a exposição dos arquivos, mas ainda exige cuidados com acesso e armazenamento.
+7. Em uma revisão de literatura, os critérios de inclusão e exclusão devem ser definidos antes da seleção principal.
+8. Cada exclusão realizada na leitura de texto completo deve possuir um motivo registrado.
+9. A busca vetorial recupera trechos semelhantes à pergunta, mas a similaridade não comprova que a resposta está correta.
+10. Citações com nome do arquivo e página permitem que o usuário confira a evidência no documento original.
+11. Um sistema RAG combina recuperação de informação com um modelo de linguagem para produzir respostas fundamentadas.
+12. Quando os documentos não contêm informação suficiente, o assistente deve admitir a limitação em vez de inventar.
+13. A revisão humana continua indispensável para interpretar resultados, identificar erros e aprovar o texto final.
+14. PDFs digitalizados podem exigir OCR antes da extração e da indexação.
+15. Melhorias futuras podem incluir reranqueamento, filtros por metadados, índice persistente e controle de acesso.
